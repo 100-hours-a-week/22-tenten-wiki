@@ -3,7 +3,7 @@ name: Sprint Backlog Template
 about: 스프린트 백로그 템플릿입니다.
 title: "[Sprint #]"
 labels: 스프린트-백로그
-assignees: ''
+assignees: KangHyup, okiidokim
 
 ---
 

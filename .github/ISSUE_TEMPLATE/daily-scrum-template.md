@@ -3,7 +3,7 @@ name: Daily Scrum Template
 about: Describe this issue template's purpose here.
 title: "[DAILY SCRUM] 월 일"
 labels: 데일리 스크럼
-assignees: kaeul1020, KangHyup, gmlwlsdl, JungMinB7, okiidokim, WooSungChoi99
+assignees: kaeul1020, KangHyup, JungMinB7, okiidokim, 1026hz, WooSungChoi99
 
 ---
 
